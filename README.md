@@ -1,4 +1,6 @@
 # Google Payments Fraud Intelligence Dashboard
+<img width="1292" height="732" alt="image" src="https://github.com/user-attachments/assets/562caf3f-2e08-4bbf-bcc5-5148e5517e06" />
+
 
 ## Project Overview
 End-to-end SQL fraud risk analysis on 590,540 IEEE-CIS transactions identifying 
