@@ -1,4 +1,3 @@
-# Google-Payments-Fraud-Intelligence
 # Google Payments Fraud Intelligence Dashboard
 
 ## Project Overview
